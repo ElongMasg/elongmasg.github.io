@@ -10,8 +10,8 @@ appearance:
   theme_night:
   font: native
   font_size: L
-  mode : light
-  color : blue
+  mode : dark
+
 
 # SEO
 
@@ -42,7 +42,11 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: false
-
+    show_theme_chooser: true
+    button:
+      enable: true
+      text: "Get Started"
+      url: "https://hugoblox.com/templates/"
 # Site footer
 
 footer:
