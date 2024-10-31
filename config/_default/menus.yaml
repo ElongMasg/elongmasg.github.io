@@ -17,8 +17,8 @@ main:
     url: people
     weight: 40
   - name: Principal Investigators
-    parent: people
-    url: people/principal/
+    parent: tags
+    url: tags/principal/
     weight: 40
   - name: Events
     url: event
@@ -29,3 +29,6 @@ main:
   - name: Contact
     url: contact
     weight: 70
+  - name: Tags
+    identifier: tags
+    weight: 80
