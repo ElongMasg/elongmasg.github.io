@@ -18,7 +18,7 @@ main:
     weight: 40
   - name: group members
     parent: tags
-    url: tags/people
+    url: people
     weight: 40
   - name: Principal Investigators
     parent: tags
