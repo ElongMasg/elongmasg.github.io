@@ -19,7 +19,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: News
       subtitle:
       text:
       count: 3
@@ -33,9 +33,9 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: compact
       columns: '1'
-      flip_alt_rows: true
+      flip_alt_rows: false
   
   - block: markdown
     content:
