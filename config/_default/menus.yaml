@@ -17,7 +17,7 @@ main:
     identifier: tags
     weight: 40
   - name: group members
-    parernt: tags
+    parent: tags
     url: tags/people
     weight: 40
   - name: Principal Investigators
