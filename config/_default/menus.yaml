@@ -13,14 +13,17 @@ main:
   - name: News
     url: post
     weight: 30
+  - name: People
+    identifier: tags
+    weight: 40
   - name: group members
     parernt: tags
-    url: tags/people/
+    url: tags/people
     weight: 40
   - name: Principal Investigators
     parent: tags
-    url: tags/principal/
-    weight: 40
+    url: tags/principal
+    weight: 38
   - name: Events
     url: event
     weight: 50
@@ -30,6 +33,4 @@ main:
   - name: Contact
     url: contact
     weight: 70
-  - name: People
-    identifier: tags
-    weight: 40
+
