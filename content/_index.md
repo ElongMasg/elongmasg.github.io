@@ -22,7 +22,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -35,6 +35,7 @@ sections:
     design:
       view: showcase
       columns: '1'
+      flip_alt_rows: true
   
   - block: markdown
     content:
