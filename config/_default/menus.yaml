@@ -22,7 +22,7 @@ main:
     weight: 40
   - name: Principal Investigators
     parent: tags
-    url: tags/principal
+    url: principal
     weight: 38
   - name: Events
     url: event
