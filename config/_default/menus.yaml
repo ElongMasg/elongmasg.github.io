@@ -7,30 +7,36 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Tour
-    url: tour
+  - name: things
+    indentifier: tags
     weight: 20
+  - name: Tour
+    parent: tags
+    url: tour
+    weight: 22
   - name: News
+    parent: tags
     url: post
-    weight: 30
+    weight: 26
+   - name: Events
+    parent: tags
+    url: event
+    weight: 28
   - name: People
     identifier: tags
-    weight: 40
+    weight: 30
   - name: group members
     parent: tags
     url: people
-    weight: 40
+    weight: 30
   - name: Principal Investigators
     parent: tags
     url: principal
     weight: 38
-  - name: Events
-    url: event
-    weight: 50
   - name: Publications
     url: publication
-    weight: 60
+    weight: 40
   - name: Contact
     url: contact
-    weight: 70
+    weight: 50
 
