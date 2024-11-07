@@ -22,14 +22,14 @@ main:
     url: principal
     weight: 38
   - name: things
-    indentifier: tags
+    indentifier: tagss
     weight: 40
   - name: News
-    parent: tags
+    parent: tagss
     url: post
     weight: 40
   - name: Events
-    parent: tags
+    parent: tagss
     url: event
     weight: 45
   - name: Publications
