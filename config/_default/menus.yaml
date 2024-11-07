@@ -21,15 +21,15 @@ main:
     parent: tags
     url: principal
     weight: 38
-  - name: things
+  - name: Things
     indentifier: tagss
     weight: 40
   - name: News
-    parent: tagss
+    parent: Things
     url: post
     weight: 40
   - name: Events
-    parent: tagss
+    parent: Things
     url: event
     weight: 45
   - name: Publications
