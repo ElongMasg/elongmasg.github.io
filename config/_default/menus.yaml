@@ -13,13 +13,13 @@ main:
   - name: People
     identifier: tags
     weight: 30
-  - name: group members
-    parent: tags
-    url: people
-    weight: 30
   - name: Principal Investigators
     parent: tags
     url: principal
+    weight: 34
+  - name: Group members
+    parent: tags
+    url: people
     weight: 38
   - name: Things
     indentifier: tagss
