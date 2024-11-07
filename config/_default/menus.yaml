@@ -21,16 +21,21 @@ main:
     parent: tags
     url: principal
     weight: 38
+  - name: things
+    indentifier: tags
+    weight: 40
   - name: News
+    parent: tags
     url: post
     weight: 40
   - name: Events
+    parent: tags
     url: event
-    weight: 50
+    weight: 45
   - name: Publications
     url: publication
-    weight: 60
+    weight: 50
   - name: Contact
     url: contact
-    weight: 70
+    weight: 60
 
