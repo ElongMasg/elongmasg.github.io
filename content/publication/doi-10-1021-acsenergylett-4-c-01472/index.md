@@ -32,5 +32,5 @@ abstract: ' Large interfacial resistance is a widely recognized impediment to th
   InClO and cobalt and indium chlorides/oxides. '
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acsenergylett.4c01472   '
+  url: 'https://doi.org/10.1021/acsenergylett.4c01472'
 ---
