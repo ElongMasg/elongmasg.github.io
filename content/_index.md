@@ -48,7 +48,7 @@ sections:
           - publication
         publication_type: 'article-journal'
     design:
-      view: citation
+      view: list
       columns: '1'
 
   - block: markdown
