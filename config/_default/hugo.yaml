@@ -25,7 +25,6 @@ pagination:
   pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
-commentable: false
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
