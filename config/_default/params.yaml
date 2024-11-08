@@ -12,7 +12,7 @@ appearance:
   font_size: L
   mode : dark
   theme_default: dark
-
+  color: blue
 
 # SEO
 
