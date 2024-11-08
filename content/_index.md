@@ -37,25 +37,6 @@ sections:
       columns: '1'
       flip_alt_rows: false
   
-  - block: markdown
-    content:
-      title: hello, 你好哈哈哈哈哈
-      subtitle: '？？？？副标题'
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
     content:
