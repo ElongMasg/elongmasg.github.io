@@ -7,7 +7,7 @@ first_name: Xiangwen
 last_name: Gao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Associate Professor of battery
