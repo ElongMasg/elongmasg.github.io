@@ -5,15 +5,29 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        Future technology of energy and material
-        Research Group
-      image:
-        filename: peter_group.jpg
-      text: |
-        <br>
+      slides:
+      - title: 👋 Welcome to the Gao group
+        content: We are dedicating to the next generation energy conversion material
+        align: center
+        background:
+          image:
+            filename: peter_group.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Lunch & Learn ☕️
+        content: 'Share your knowledge with the group and explore exciting new topics together!'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
         
         The **Gao lab** has been a center of excellence for next generation battery research, teaching, and practice since its founding in 2023.
   
