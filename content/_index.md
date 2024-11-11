@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
       title: |
         Future technology of energy and material
