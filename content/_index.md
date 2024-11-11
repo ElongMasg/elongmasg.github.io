@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: peter_group.jpg
+            filename: coders.jpg
             filters:
               brightness: 0.7
           position: right
@@ -28,7 +28,29 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-        
+      - title: World-Class Semiconductor Lab
+        content: 'Just opened last month!'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
         The **Gao lab** has been a center of excellence for next generation battery research, teaching, and practice since its founding in 2023.
   
   - block: collection
