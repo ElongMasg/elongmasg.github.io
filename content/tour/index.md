@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: puyuan-catl.jpg
             filters:
               brightness: 0.7
           position: right
@@ -23,7 +23,7 @@ sections:
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: lab1.jpg
             filters:
               brightness: 0.7
           position: center
