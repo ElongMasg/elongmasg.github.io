@@ -72,9 +72,3 @@ user_groups:
 ---
 
 
-    - course: PhD of Battery Materials
-      institution: Department of Materials, University of Oxford, UK
-      year: 2018
-    - course: Bachelor of Chemistry 
-      institution: Fudan University
-      year: 2013
