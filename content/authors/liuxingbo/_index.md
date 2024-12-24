@@ -1,14 +1,14 @@
 ---
 # Display name
-title: jiahang Chen 陈加航
+title: Xingbo Liu 刘兴博
 
 # Full name (for SEO)
-first_name: Jiahang
-last_name: Chen
+first_name: xingbo
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - 陈加航
+  - 刘兴博
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,6 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Li-S battery
@@ -68,14 +67,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Master
 ---
 
-陈家航 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-    - course: PhD of Battery Materials
-      institution: Department of Materials, University of Oxford, UK
-      year: 2018
-    - course: Bachelor of Chemistry 
-      institution: Fudan University
-      year: 2013
