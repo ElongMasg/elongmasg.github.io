@@ -14,45 +14,8 @@ highlight_name: true
 superuser: false
 
 # Role/position
-role: Grad Students of Gao lab
 
-# Organizations/Affiliations
-organizations:
-  - name: Shanghai Jiao Tong University
-    url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-  - Li-S battery
-
-education:
-  courses:
-    - course: Master in Artificial Intelligence
-      institution: Stanford University
-      year: 2023-present
-    - course: Bc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2023
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'jiahang.chen@sjtu.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +31,3 @@ user_groups:
   - Master
 ---
 
-余冲 is a 
