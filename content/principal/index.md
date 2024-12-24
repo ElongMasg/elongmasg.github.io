@@ -1,41 +1,71 @@
 ---
-title: Princical Investigator
-date: 2022-10-24
+# Display name
+title: Xiangwen Gao 杲祥文
 
-type: pages
+# Full name (for SEO)
+first_name: Xiangwen
+last_name: Gao
 
-sections:
-  - block: Princical Investigator
-    content:
-      title: Info
-      text:
-    
+# Username (this should match the folder name)
+authors:
+  - 杲祥文
 
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: Principal researcher
+
+# Organizations/Affiliations
+organizations:
+  - name: Shanghai Jiao Tong University
+    url: ''
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+  - Li-S battery
+
+education:
+  courses:
+    - course: PhD in Materials Science and Engineering
+      institution: Oxford
+      year: 2019
+    - course: Bachelor of Chemical Engineering and Technology
+      institution:  fudan University
+      year: 2013
+
+# Social/Academic Networking
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'jiahang.chen@sjtu.edu.cn'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Researchers
 ---
-中文信息
 
-工作经历
-    - **2023-至今** 上海交通大学溥渊未来技术学院 副教授
-    - **2020-2022** 英国牛津大学材料系 博士后
-    - **2018-2020** 美国德克萨斯大学奥斯汀分校 博士后
-
-所获荣誉
-    - 2018年度美国电化学协会K.M. Abraham奖
-    - 2018年度国家优秀自费留学生奖
-科研项目
-    - 2024-2026,国家自然科学基金青年基金项目,锂氧气电池气体扩散还原动力学机制及其调控探究,主持,负责人
-
-学术兼职
-    - 《Material Today Energy》,《SusMat》青年编委
-  </div>
-</div>
+杲祥文 is a .
