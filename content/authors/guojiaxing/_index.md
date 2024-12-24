@@ -1,14 +1,14 @@
 ---
 # Display name
-title: jiahang Chen 陈加航
+title: jiaxing Guo 郭嘉兴
 
 # Full name (for SEO)
-first_name: Jiahang
-last_name: Chen
+first_name: jiaxing
+last_name: Guo
 
 # Username (this should match the folder name)
 authors:
-  - 陈加航
+  - 郭嘉兴
 
 # Is this the primary user of the site?
 superuser: false
@@ -68,14 +68,6 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Master
 ---
 
-陈家航 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-    - course: PhD of Battery Materials
-      institution: Department of Materials, University of Oxford, UK
-      year: 2018
-    - course: Bachelor of Chemistry 
-      institution: Fudan University
-      year: 2013
