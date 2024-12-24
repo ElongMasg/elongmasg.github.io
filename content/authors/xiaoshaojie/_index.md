@@ -1,14 +1,14 @@
 ---
 # Display name
-title: jiahang Chen 陈加航
+title: shaojie Xiao 肖少杰
 
 # Full name (for SEO)
 first_name: Jiahang
-last_name: Chen
+last_name: Xiao
 
 # Username (this should match the folder name)
 authors:
-  - 陈加航
+  - 肖少杰
 
 # Is this the primary user of the site?
 superuser: false
@@ -71,7 +71,6 @@ user_groups:
   - Grad Students
 ---
 
-陈家航 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
     - course: PhD of Battery Materials
       institution: Department of Materials, University of Oxford, UK
