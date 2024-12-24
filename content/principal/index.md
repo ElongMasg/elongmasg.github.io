@@ -8,21 +8,7 @@ sections:
   - block: Princical Investigator
     content:
       title: Info
-      text: |-
-
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '1'
----
-# 中文信息
-
+      text:
     ## 工作经历
     - **2023-至今** 上海交通大学溥渊未来技术学院 副教授
     - **2020-2022** 英国牛津大学材料系 博士后
@@ -37,5 +23,20 @@ sections:
 
     ## 学术兼职
     - 《Material Today Energy》,《SusMat》青年编委
+
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
+    design:
+      columns: '1'
+---
+# 中文信息
+
+
   </div>
 </div>
