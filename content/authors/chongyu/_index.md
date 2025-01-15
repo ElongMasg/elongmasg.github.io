@@ -9,7 +9,7 @@ last_name: Yu
 # Username (this should match the folder name)
 authors:
   - 余冲
-highlight_name: true
+highlight_name: false
 # Is this the primary user of the site?
 superuser: false
 
