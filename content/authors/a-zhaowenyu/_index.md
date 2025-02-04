@@ -26,12 +26,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Li-S battery
+  - ASSB
 
 education:
   courses:
     - course: PhD in Gao lab
       institution: Shanghai Jiao Tong University
-      year: 2013-present
+      year: 2023-present
     - course: Master in battery
       institution: Northwestern Polytechnical University
       year: 
