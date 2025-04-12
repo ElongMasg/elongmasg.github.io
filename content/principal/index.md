@@ -1,71 +1,78 @@
----
-# Display name
-title: Xiangwen Gao 杲祥文
+<div style="display: flex; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #333; max-width: 800px; margin: 20px auto;">
 
-# Full name (for SEO)
-first_name: Xiangwen
-last_name: Gao
+<!-- 左侧个人信息栏 -->
+<div style="flex: 1; padding-right: 30px; border-right: 1px solid #e0e0e0;">
+    <img src="avatar.jpg" alt="个人照片" style="width: 180px; height: 240px; border-radius: 4px; margin-bottom: 25px; box-shadow: 0 2px 4px rgba(0,0,0,0.1)">
 
-# Username (this should match the folder name)
-authors:
-  - 杲祥文
+    ### 王小明
+    ##### 人工智能工程师
+    
+    <div style="margin-top: 20px; line-height: 1.6;">
+        📧 wangxm@email.com  
+        📱 (+86) 138-1234-5678  
+        📍 北京市海淀区  
+        🌐 [个人博客](https://blog.example.com)  
+        💼 [LinkedIn](https://linkedin.com/in/username)
+    </div>
 
-# Is this the primary user of the site?
-superuser: false
+    <hr style="border: 0.5px solid #e0e0e0; margin: 25px 0">
 
-# Role/position
-role: Principal researcher
+    #### 技能专长
+    - Python/PyTorch/TensorFlow
+    - 机器学习/深度学习
+    - SQL/NoSQL数据库
+    - Docker/Kubernetes
+    - AWS/GCP云服务
+</div>
 
-# Organizations/Affiliations
-organizations:
-  - name: Shanghai Jiao Tong University
-    url: ''
+<!-- 右侧详细信息栏 -->
+<div style="flex: 2; padding-left: 30px;">
+    ## 教育背景
+    **清华大学**  
+    *计算机科学与技术 博士*  
+    2020.09 - 2024.06  
+    - GPA: 3.8/4.0
+    - 研究方向：计算机视觉
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+    ## 工作经历
+    **字节跳动 - 算法工程师**  
+    2022.07 - 至今  
+    - 开发视频内容理解模型，准确率提升12%
+    - 主导模型轻量化项目，推理速度提升3倍
+    - 累计获得3项技术专利
 
-interests:
-  - Li-S battery
+    **微软亚洲研究院 - 研究实习生**  
+    2021.06 - 2022.06  
+    - 参与自然语言处理项目开发
+    - 发表CVPR论文1篇
 
-education:
-  courses:
-    - course: PhD in Materials Science and Engineering
-      institution: Oxford
-      year: 2019
-    - course: Bachelor of Chemical Engineering and Technology
-      institution:  fudan University
-      year: 2013
+    ## 项目经验
+    **医疗影像分析系统**  
+    - 使用U-Net实现病灶分割，Dice系数达0.92
+    - 部署到20+三甲医院临床使用
+    - 获2023年AI医疗创新大赛金奖
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'jiahang.chen@sjtu.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    **智能客服机器人**  
+    - 基于BERT构建对话系统
+    - 用户满意度提升35%
+    - 日均处理10万+咨询请求
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+    ## 荣誉奖项
+    - 2023 中国人工智能学会优秀论文奖
+    - 2022 Kaggle计算机视觉竞赛 Top 5%
+    - 2021 国家奖学金
+</div>
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
----
+</div>
 
-杲祥文 is a .
+<style>
+    @media print {
+        div { 
+            max-width: 100% !important;
+            box-shadow: none !important;
+        }
+        img {
+            filter: grayscale(100%);
+        }
+    }
+</style>
